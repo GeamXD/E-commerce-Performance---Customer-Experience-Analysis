@@ -303,19 +303,19 @@ class CustomerChurnPredictor:
 # Usage example (assuming you have loaded your dataset as 'df')
 def main():
     # Load your dataset
-    # df = pd.read_csv('your_dataset.csv')
+    df = pd.read_csv('data/final_df.csv')
 
     # Initialize predictor
     predictor = CustomerChurnPredictor()
 
     # Create churn target
-    # customer_metrics = predictor.create_churn_target(df)
+    customer_metrics = predictor.create_churn_target(df)
 
     # Prepare features
-    # features = predictor.prepare_features(df, customer_metrics)
+    features = predictor.prepare_features(df, customer_metrics)
 
     # Build and train model
-    # model, feature_importance = predictor.build_model(features)
+    model, feature_importance = predictor.build_model(features)
 
     print("Customer Churn Prediction Model Ready!")
     print("Next step: Run the Streamlit app for predictions")
