@@ -4,7 +4,7 @@
 - Tools Used: Python (Data Cleaning, Preprocessing, ML Modeling), Tableau (Visualization & Dashboarding)
 
 ## Executive Summary
-This report provides a comprehensive analysis of the company's Q2 performance, revealing a critical disconnect between sales acquisition and post-purchase customer experience. While lead conversion and top-performer sales show strength, these gains are being nullified by systemic issues in logistics and fulfillment.
+This report provides a comprehensive analysis of the company's Q4 performance, revealing a critical disconnect between sales acquisition and post-purchase customer experience. While lead conversion and top-performer sales show strength, these gains are being nullified by systemic issues in logistics and fulfillment.
 
 - The Core Problem: A significant 21.4% decline in Customer Lifetime Value (CLV) and a 21.38% drop in total sales are directly linked to a deteriorating delivery experience. Despite an improvement in average delivery speed, a decrease in on-time reliability and a spike in delays in key regions have led to a 4.72% drop in average review scores and a catastrophic 95.6% churn rate.
 
