@@ -3,6 +3,8 @@
 - Date: June 20, 2024
 - Tools Used: Python (Data Cleaning, Preprocessing, ML Modeling), Tableau (Visualization & Dashboarding)
 
+![KPI DASHBOARD](https://github.com/GeamXD/E-commerce-Performance---Customer-Experience-Analysis/blob/main/dashboard%20template/KPI%20DASHBOARD.png)
+
 ## Executive Summary
 This report provides a comprehensive analysis of the company's Q4 performance, revealing a critical disconnect between sales acquisition and post-purchase customer experience. While lead conversion and top-performer sales show strength, these gains are being nullified by systemic issues in logistics and fulfillment.
 
